@@ -8,6 +8,7 @@
 
 ## Как запустить
 
-- composer install
-- php artisan migrate --seed
-- php artisan serve
+- `composer install`
+- установить .env
+- `php artisan migrate --seed`
+- `php artisan serve`
